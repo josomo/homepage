@@ -29,7 +29,7 @@ var text1 = "hey, what's up?"
 var text2 = "here are a couple of my side projects:"
 var text3 = "fuss free filing"
 var text4 = "@uniquelyphilly"
-var text5 = "don't be a stranger: jsmokry@gmail.com"
+var text5 = "don't be a stranger :)"
 
 
 setTimeout(function(){
