@@ -50,7 +50,7 @@ setTimeout(function(){
 
 setTimeout(function(){
     typewrite(text5, 160, fifth)
-}, 14000);
+}, 17000);
 
 setTimeout(function(){
     linkIt('third', 'http://fussfreefiling.com');
