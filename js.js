@@ -26,13 +26,10 @@ var linkIt = function(el, href){
 }
 
 var text1 = "hey, what's up?"
-var text2 = "here are a few of my side projects:"
+var text2 = "here are a couple of my side projects:"
 var text3 = "fuss free filing"
 var text4 = "@uniquelyphilly"
-var text5 = "chronojournal"
-var text6 = "helperize"
-var text7 = "they touch on a few subjects i've been interested in lately, like social media trends and chronobiology."
-var text8 = " if you wanna talk about them, or anything else, contact me at [email]"
+var text5 = "don't be a stranger: jsmokry@gmail.com"
 
 
 setTimeout(function(){
@@ -56,29 +53,9 @@ setTimeout(function(){
 }, 14000);
 
 setTimeout(function(){
-    typewrite(text6, 160, sixth)
-}, 15000);
-
-setTimeout(function(){
-    linkIt('third', 'http://www.example.com');
+    linkIt('third', 'http://fussfreefiling.com');
 }, 15780);   
 
 setTimeout(function(){
     linkIt('fourth', 'http://www.twitter.com/uniquelyphilly');
 }, 16850);   
-
-setTimeout(function(){
-    linkIt('fifth', 'http://www.example.com');
-}, 17900);   
-
-setTimeout(function(){
-    linkIt('sixth', 'http://www.example.com');
-}, 18200);   
-
-setTimeout(function(){
-    typewrite(text7, 100, seventh)
-}, 20000);
-
-setTimeout(function(){
-    typewrite(text8, 100, seventh)
-}, 31400);
